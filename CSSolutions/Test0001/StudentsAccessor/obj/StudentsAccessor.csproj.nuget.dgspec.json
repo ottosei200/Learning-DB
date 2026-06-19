@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sharo\\GitHub\\Learning-DB\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj": {}
+    "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sharo\\GitHub\\Learning-DB\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj": {
+    "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sharo\\GitHub\\Learning-DB\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj",
+        "projectUniqueName": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj",
         "projectName": "StudentsAccessor",
-        "projectPath": "C:\\Users\\sharo\\GitHub\\Learning-DB\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj",
+        "projectPath": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\StudentsAccessor.csproj",
         "packagesPath": "C:\\Users\\sharo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sharo\\GitHub\\Learning-DB\\Test0001\\StudentsAccessor\\obj\\",
+        "outputPath": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

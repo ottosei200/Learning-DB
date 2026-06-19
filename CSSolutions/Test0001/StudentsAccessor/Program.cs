@@ -11,6 +11,7 @@ namespace StudentsAccessor {
             // ロックされたときは'sudo mysqladmin flush-hosts'でログイン可能に戻す
             string connectionString = $"Server=localhost;Database=practice0001;Uid=vscode_user;Pwd={password}";
 
+            // 接続の確認
             using (var connection = new MySqlConnection(connectionString)) {
                 try {
                     connection.Open();
@@ -26,6 +27,14 @@ namespace StudentsAccessor {
                 } finally {
                     connection.Close();
                 }
+            }
+
+            try {
+                MySqlDML dml = new MySqlDML(connectionString, "students");
+
+                Console.WriteLine(dml.Select("*"));
+            } catch (MySqlException ex) {
+                Console.WriteLine($"{ex.Message}");
             }
         }
     }
