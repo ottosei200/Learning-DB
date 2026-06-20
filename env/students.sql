@@ -1,4 +1,4 @@
--- Active: 1781965376602@@localhost@3306@my_database
+-- Active: 1781967130387@@localhost@3306@my_database
 
 DROP DATABASE IF EXISTS my_database;
 
