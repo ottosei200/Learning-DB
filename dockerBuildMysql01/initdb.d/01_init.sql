@@ -1,5 +1,7 @@
 -- Active: 1781967130387@@localhost@3306@my_database
 
+-- ここのディレクトリにあるsql文はコンテナの起動時に自動的に実行される
+
 DROP DATABASE IF EXISTS my_database;
 
 CREATE DATABASE my_database;
