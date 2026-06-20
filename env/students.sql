@@ -1,10 +1,10 @@
--- Active: 1781896494031@@127.0.0.1@3306@practice01
+-- Active: 1781965376602@@localhost@3306@my_database
 
-DROP DATABASE IF EXISTS practice01;
+DROP DATABASE IF EXISTS my_database;
 
-CREATE DATABASE practice01;
+CREATE DATABASE my_database;
 
-use practice01;
+use my_database;
 
 DROP TABLE IF EXISTS students;
 
