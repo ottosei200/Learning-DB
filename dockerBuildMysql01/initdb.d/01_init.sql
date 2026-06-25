@@ -1,4 +1,4 @@
--- Active: 1781967130387@@localhost@3306@my_database
+-- Active: 1782399002020@@127.0.0.1@3306@my_database
 
 -- ここのディレクトリにあるsql文はコンテナの起動時に自動的に実行される
 
@@ -8,26 +8,11 @@ CREATE DATABASE my_database;
 
 use my_database;
 
-DROP TABLE IF EXISTS students;
-
 DROP TABLE IF EXISTS club;
-
 -- 1. club テーブルの作成
 CREATE TABLE club (
     club_id INT PRIMARY KEY,
     club_name VARCHAR(50)
-);
-
--- 2. students テーブルの作成
-CREATE TABLE students (
-    student_id INT PRIMARY KEY,
-    l_name VARCHAR(50),
-    f_name VARCHAR(50),
-    height DECIMAL(4, 1),
-    grade INT,
-    class INT,
-    club_id INT,
-    FOREIGN KEY (club_id) REFERENCES club (club_id)
 );
 
 INSERT INTO
@@ -42,6 +27,19 @@ VALUES (1, '野球部'),
     (8, '美術部'),
     (9, 'パソコン部'),
     (10, '剣道部');
+
+DROP TABLE IF EXISTS students;
+-- 2. students テーブルの作成
+CREATE TABLE students (
+    student_id INT PRIMARY KEY,
+    l_name VARCHAR(50),
+    f_name VARCHAR(50),
+    height DECIMAL(4, 1),
+    grade INT,
+    class INT,
+    club_id INT,
+    FOREIGN KEY (club_id) REFERENCES club (club_id)
+);
 
 INSERT INTO
     students (
@@ -391,5 +389,28 @@ VALUES (1, '佐藤', '太郎', 168.5, 1, 1, 1),
         4,
         1
     );
+
+DROP TABLE IF EXISTS customers;
+
+CREATE TABLE customers (
+    cust_id INT PRIMARY KEY,
+    cust_name VARCHAR(50),
+    phone_num VARCHAR(50)
+);
+
+INSERT INTO
+    customers (cust_id, cust_name, phone_num)
+VALUES (100, '横島書店', '080-2146-4223'),
+    (101, '小学館', '090-1234-5678'),
+    (
+        102,
+        'Benesse',
+        '0120-1234-5678'
+    ),
+    (103, '旺文社', '0120-1234-5678'),
+    (104, '田中書店', '080-2345-7654'),
+    (105, '傲慢怠惰', '090-8376-9228'),
+    (106, '文人墨客', '080-1883-4448'),
+    (107, '明鏡止水', '060-1299-2328');
 
 select * from students;

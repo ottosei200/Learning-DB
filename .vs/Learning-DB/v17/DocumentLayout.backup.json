@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSSolutions\\Test0001\\StudentsAccessor\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSSolutions\\Test0001\\StudentsAccessor\\Authentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Authentication.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Authentication.cs",
+              "RelativeDocumentMoniker": "CSSolutions\\Test0001\\StudentsAccessor\\Authentication.cs",
+              "ToolTip": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Authentication.cs",
+              "RelativeToolTip": "CSSolutions\\Test0001\\StudentsAccessor\\Authentication.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:51:11.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IManipulation.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs",
+              "RelativeDocumentMoniker": "CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs",
+              "ToolTip": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs",
+              "RelativeToolTip": "CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:51:09.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MySqlDML.cs",
+              "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs",
+              "RelativeDocumentMoniker": "CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs",
+              "ToolTip": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs",
+              "RelativeToolTip": "CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-25T14:24:13.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Program.cs",
               "RelativeDocumentMoniker": "CSSolutions\\Test0001\\StudentsAccessor\\Program.cs",
               "ToolTip": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Program.cs",
               "RelativeToolTip": "CSSolutions\\Test0001\\StudentsAccessor\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T20:02:16.991Z",
               "EditorCaption": ""

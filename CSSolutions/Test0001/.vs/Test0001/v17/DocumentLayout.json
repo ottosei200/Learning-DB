@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|c:\\users\\sharo\\github\\learning-db\\cssolutions\\test0001\\studentsaccessor\\mysqldml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|solutionrelative:studentsaccessor\\mysqldml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|c:\\users\\sharo\\github\\learning-db\\cssolutions\\test0001\\studentsaccessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|solutionrelative:studentsaccessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|c:\\users\\sharo\\github\\learning-db\\cssolutions\\test0001\\studentsaccessor\\imanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|solutionrelative:studentsaccessor\\imanipulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|c:\\users\\sharo\\github\\learning-db\\cssolutions\\test0001\\studentsaccessor\\mysqldml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{87D4EACB-8361-4792-B5F0-30F3AEF5E2C8}|StudentsAccessor\\StudentsAccessor.csproj|solutionrelative:studentsaccessor\\mysqldml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IManipulation.cs",
               "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\IManipulation.cs",
               "RelativeDocumentMoniker": "StudentsAccessor\\IManipulation.cs",
@@ -46,25 +46,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "MySqlDML.cs",
               "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs",
               "RelativeDocumentMoniker": "StudentsAccessor\\MySqlDML.cs",
               "ToolTip": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\MySqlDML.cs",
               "RelativeToolTip": "StudentsAccessor\\MySqlDML.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAYwDQAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAUwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-19T13:56:03.894Z"
+              "WhenOpened": "2026-06-19T13:56:03.894Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Program.cs",
               "RelativeDocumentMoniker": "StudentsAccessor\\Program.cs",
               "ToolTip": "C:\\Users\\sharo\\GitHub\\Learning-DB\\CSSolutions\\Test0001\\StudentsAccessor\\Program.cs",
               "RelativeToolTip": "StudentsAccessor\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAAwB8AAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAC9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-06-19T13:12:50.064Z",
               "EditorCaption": ""
